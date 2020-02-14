@@ -27,10 +27,10 @@
     "react-dom": "~16.9.0",
     "react-native": "~0.61.0",
     "react-router-dom": "5.1.2",
-    "react-router-native": "5.1.2"
+    "react-router-native": "5.1.2",
+    "xdl": "latest",
   },
   "devDependencies": {
-    "xdl": "latest",
     "babel-preset-expo": "~8.0.0",
     "@babel/core": "^7.0.0"
   },
